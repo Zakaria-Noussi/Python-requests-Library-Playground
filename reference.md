@@ -72,6 +72,7 @@ Status Codes:
 
 
 Resources:
+
 https://requests.readthedocs.io/en/latest/ -> Documentation
 
 https://reqres.in/ -> tool for request/response, fake api with fake data for testing
@@ -81,5 +82,6 @@ https://httpbin.org/ -> same as above
 https://pipedream.com/requestbin -> inspect HTTP requests
 
 
-Addendum
+Addendum:
+
 /api/users?page=2 : end point
