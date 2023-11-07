@@ -95,3 +95,12 @@ https://console.twilio.com/us1/develop/phone-numbers/manage/incoming
 Addendum:
 
 /api/users?page=2 : end point
+
+
+- github settings > developper settings > OAuth Apps:
+- Application name: Python_requests
+- Homepage URL: http://127.0.0.1:5000
+- Authorization callback URL: http://127.0.0.1:5000/authorize 
+
+Client ID: ea048d1b5b78a39584c5
+Client secrets: xxxxx
