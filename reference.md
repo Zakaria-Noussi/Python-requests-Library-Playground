@@ -85,7 +85,11 @@ https://petstore.swagger.io
 
 https://docs.github.com/en/rest?apiVersion=2022-11-28 -> API docs
 
+https://restcountries.com/v2/all
 
+https://restcountries.com/v3.1/all
+
+https://console.twilio.com/us1/develop/phone-numbers/manage/incoming
 
 
 Addendum:
